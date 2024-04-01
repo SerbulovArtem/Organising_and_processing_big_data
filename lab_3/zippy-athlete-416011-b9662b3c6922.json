@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zippy-athlete-416011",
+  "private_key_id": "b9662b3c6922b24ea51c7379038af0568b8b7e95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaI9M8dyxoCDVm\nzdHhjxNMIm0gKZ+WLFNlc3ZpPtXZrYiaM3qW6atxye2E/9ih+FyoDMhY4DnE1t/8\npRBq0wztxbx23kgMgfhAT0KO3bQsxF+q/NJ593P1+70rJT6Cc8NEiiqmXjXqdR9M\nspKYfuytJue7y9RsnqdubDPZvgsEv6zNJ0y1ThQSXmFeaEXihGh4Zs6vgQjo3rGm\nK4JM4ttVBSTX7iexydKTbw8gjuxR8ta/f8ibDo7WKZ1RttE7eDDHxcXN45CSgCZb\nWP/5mLzyvKfZVLKgnutUX1lnaarEQ43srgzUNbrYeVuP+sAA4XczACreunrt3fe3\nmf2r/CSDAgMBAAECggEAIdNI+mj3CiauXoOZ1k0WTp75UZxtXPRV9jb3lzhMIYCc\nMbURKaeQPd50UJmk9kYJ2sZ9+/IWYyR3/7gkxJEiFxirXGSkGB8V51BNtNOXZb20\nS/z/h4l3LMndZScAUMAx+PB9I+Zwm9Y6L+1yIpLD5nxQQLme9eeKyj+dsVebuR9/\ns4bHRIcnEqmxgn/GOHHoZJJRmog5LJFKDvleRblWPSvysx9Faiub+9fuKMPpXZjI\nEX0Xvo4jb2QoZC9OGKgNryMLWC0+mam5iazYoJC0ppdLZOOSGW9Io/kNsmdUNQs7\n6BtzcxEndTV0ORCmI38rRUXOpuCtbkS2+nVjSYozuQKBgQD24TsJnZICN8FI2XL1\nRoWTCo0mvLqyws89n7bH8aKX0XiW5S+QoeY2mqx35hHGOI16LJkhGuD/Qkd+W+Re\nB/oBsy95joTSb5drcgcPB3lh5EkBcQ7Biubto/sIlQt/ONPDOc6VAippV/SJLlcN\nlaRAQ6Hg4gJozr4vM72zUWSExQKBgQDiMsxosfxZwQAPCMaklRtNvxCpGBZKvg00\nLzZ3WrLCD5tNipJf6F9CilmPi2JM3STDbBGxCkln1ohFF0RDubC5s7nUjykZik9r\nrw9t3cbJb6yBswY+AoNy6/n3pGsv18vmZFOaBFPBMKgwBTMpz/7hhrS0ZM8A8VCS\nd6z0VivopwKBgQCBJhooUZHMLzah0X9d6GKAJYjpttlEIr0fU6netv2DxkT7SzGy\ny78O2aNXpbeupm78dtA0jUcewaF87L1uo2WZ9g7j3DaHj3D6+E/RAOvy1eWLJ4W8\nodlkf+AXAUFecG/3NQpo0RU2vphiGyfXJ20hYUAR0KnKAj1jnAGlCPM4sQKBgC9Q\n6vtXh+8KdUWv00WoPx7jQcvtUvRtjvuEiMMswMnhU95Dh1zykcKsiBGD2Zs0gzUx\nzP2YpkRHVxgExu3X0QT3eH7jN3i1OunOo86anrOSXaZ/2WVtRyvp+s73oMhQPsHB\n6M8F6rM1x2jMHai4bpukfvZhQ//xeqY4zIAL6oFvAoGAKcN1d4m4jmJI1Z9NH2Hw\nEAn4JjHbjdhPyohDOB5pR2kF/5gnpy+TjfeDqTRc3IqYiwD1VsZid0xB7/pIRKvo\nHlv4sovMWT1FTQUV0vGG6NPcb8xJ98GcEHUiX9ENWUwWj6aPgcud7MUIvBThEoCa\n8YWgsH1filNV0vWOAZ2srsk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "intro-to-big-data@zippy-athlete-416011.iam.gserviceaccount.com",
+  "client_id": "102464505319623386780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/intro-to-big-data%40zippy-athlete-416011.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
